@@ -17,4 +17,4 @@
 
 이 페이지는 디자인 시안입니다. 병원명, 주소, 전화번호, 진료 시간, 진료 분야는 모두 예시이므로 실제 운영 정보로 바꾼 뒤 사용해 주세요. 진료 내용과 경과에 관한 안내는 의료진 검토를 거쳐야 합니다.
 
-배포된 미리보기: <https://ongyeol-skin-clinic.fairfly128.chatgpt.site>
+배포된 미리보기: <https://oneperson01.github.io/mangu/>
